@@ -1,0 +1,6 @@
+C:\Users\r\Documents\Visual Studio 11\Projects\Project Euler\problem1\bin\Debug\problem1.exe.config
+C:\Users\r\Documents\Visual Studio 11\Projects\Project Euler\problem1\bin\Debug\problem1.exe
+C:\Users\r\Documents\Visual Studio 11\Projects\Project Euler\problem1\bin\Debug\problem1.pdb
+C:\Users\r\Documents\Visual Studio 11\Projects\Project Euler\problem1\obj\Debug\problem1.csprojResolveAssemblyReference.cache
+C:\Users\r\Documents\Visual Studio 11\Projects\Project Euler\problem1\obj\Debug\problem1.exe
+C:\Users\r\Documents\Visual Studio 11\Projects\Project Euler\problem1\obj\Debug\problem1.pdb
